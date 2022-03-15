@@ -3,7 +3,6 @@
 Author:            Calipio
 Contributors:      calipioscreenrecorder, worldweb
 Plugin Name:       Calipio Screen Recorder
-Plugin URI:        https://calipio.com/
 Tags:              calipio, calipio plugin, calipio embedded, calipio recorder, calipio sdk,
 Author URI:        https://calipio.com/
 Requires at least: 5.0
