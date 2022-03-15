@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: Calipio Screen Recorder
- * Plugin URI: https://calipio.com/
  * Description: Provide an instant Screen Recording option on your webpage. Without registration, just in your user’s browser, on all platforms.
  * Version: 1.0.0
  * Author: Calipio
